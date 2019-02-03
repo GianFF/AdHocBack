@@ -11,12 +11,12 @@
       "type": "string",
       "required": true
     },
-    "contenido": {
-      "type": "string",
-      "required": true
-    },
     "fechaDeCreacion": {
       "type": "date",
+      "required": true
+    },
+    "contenido": {
+      "type": "object",
       "required": true
     }
   },
